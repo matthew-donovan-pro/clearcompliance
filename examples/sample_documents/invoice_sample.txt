@@ -1,0 +1,3 @@
+Date: 2026-03-31
+Amount: 1200
+Customer: Example Corp

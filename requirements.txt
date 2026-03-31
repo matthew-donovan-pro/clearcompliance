@@ -1,0 +1,2 @@
+# Demo requirements for ClearCompliance
+# Only standard library used in this demonstration

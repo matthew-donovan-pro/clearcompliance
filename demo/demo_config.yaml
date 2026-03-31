@@ -1,0 +1,4 @@
+# Demo configuration for ClearCompliance
+
+sample_document: examples/sample_documents/invoice_sample.txt
+output_report: examples/demo_outputs/compliance_report.json

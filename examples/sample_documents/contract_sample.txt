@@ -1,0 +1,4 @@
+Date: 2026-03-31
+Amount: 500
+Parties: Alice and Bob
+Description: Service agreement

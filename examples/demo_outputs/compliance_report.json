@@ -1,0 +1,9 @@
+{
+  "passed": false,
+  "message": "Amount exceeds threshold",
+  "fields": {
+    "date": "2026-03-31",
+    "amount": "1200",
+    "customer": "Example Corp"
+  }
+}
