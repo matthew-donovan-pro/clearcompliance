@@ -19,9 +19,10 @@ while keeping production-grade logic private.
 
 ## Features
 
-- **Document analysis** — extracts structured fields from input  
-- **Rule engine** — applies deterministic validation logic  
-- **Report generation** — outputs structured JSON compliance reports  
+- Processes 1000+ transaction records with rule-based classification and deterministic validation logic
+- Applies configurable compliance rules with traceable decision paths for each evaluation
+- Generates structured JSON reports with pass/fail outcomes and supporting reasoning
+- Provides LLM-style explanatory output with mapped rule references and confidence indicators (mocked in demo) 
 
 ---
 
